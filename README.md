@@ -20,7 +20,7 @@ $ cc -o convert2 convert2.c
 ```
 
 ## Usage
-With your executable file, if on **linux**, you must make it executable first
+With your executable file, if on **Linux**, you must make it executable first (ignore this if **Windows**)
 ```
 $ chmod -x convert2
 ```
