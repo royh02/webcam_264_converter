@@ -7,7 +7,7 @@ I was looking everywhere for a solution to my security cam's annoying .264 video
 ## Build
 Clone this repo or download <a href="https://github.com/royh02/webcam_264_converter/blob/master/convert2.c">the C file</a> separately.
 ### Windows
-You will need a C compiler to do this. I used <a href="https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download">mingdw-w64</a> for this. Just install and add **/path/to/MinGW/bin** to **PATH**\
+You will need a C compiler to do this. I used <a href="https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download">mingdw-w64</a> for this. Just install and add **/path/to/MinGW/bin** to **PATH**  
 
 Now, you will need to `cd` into the repo or where you downloaded the C file, and run
 ```
